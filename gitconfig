@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kokita.0317@gmail.com
+	name = Koki Takahashi
